@@ -1,0 +1,18 @@
+#space{
+  margin: 1%;
+  padding: 1%;
+}
+#main-header{
+  background-color: gray;
+}
+.back{
+  background-color: lightgray;
+}
+#root{
+  background-color: lightgray;
+}
+html{
+  background-color: lightgray;
+}
+
+/* min-height: 100vh */
